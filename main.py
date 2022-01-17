@@ -1,7 +1,7 @@
+name = input("Proszę wpisać swoje imię.")
 
-tel = {}
 
-print(tel)
-
-tel= {'maja': }
-
+if len(name) > 0:
+    print(name)
+else:
+    pass
